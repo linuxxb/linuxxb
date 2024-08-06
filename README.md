@@ -5,45 +5,46 @@
 
 
 ### Hi there 👋, my name is Waleed 
-#### Moblie developer (Flutter - Cross Platform) (Android - Native )
-![Moblie developer (Flutter - Cross Platform) (Android - ios- web - windows - macos)](sherif.jpg)
+#### Moblie developer (Flutter - Cross Platform + Python Cross Platform) (Android - ios- web - windows - macos )
+![Moblie developer (Flutter - Cross Platform + Python Cross Platform) (Android - ios- web - windows - macos)](software-developer-6521720-scaled.jpg)
 
-A mobile app developer is able to create software for phones and tablets, and is familiar with the newest technologies in the mobile world. Mobile development requires staying in the mobile head space, meaning that it's even more important than with other hardware contexts to optimize performance, battery, network, and memory management. A developer must be also aware of how to deal with device fragmentation,often working closely with a designer to achieve the best user experience (UX) results.
+A mobile application developer can create programs for smartphones and tablets. The developer must be familiar with the latest technologies in the mobile world, as this field requires maintaining efficient performance and managing battery, network, and memory consumption effectively. Optimizing these aspects is more crucial compared to other device systems.
 
-Skills: tech: Android , Flutter / science : Clean Code , Clean Arch , DP , oop ,Algh&Data Struc 
+The application developer must be capable of handling device fragmentation and often works closely with user experience (UX) designers to achieve the best user experience.
 
-- 🔭 I’m currently working on this page. 
+Skills:
+
+Technical:
+Flutter
+Python
+Java
+
+Platforms:
+Android
+iOS
+Web
+Windows
+macOS
+science : Clean Code , Clean Arch , api, 
+-  currently working on this page. 
 
 <h2 align="center"> 🔭 Tools of Trade</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="[https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white](https://www.google.com/imgres?q=image%20python&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Ff%2Ff8%2FPython_logo_and_wordmark.svg%2F2560px-Python_logo_and_wordmark.svg.png&imgrefurl=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3APython_logo_and_wordmark.svg&docid=t1FyyQ--OrDxlM&tbnid=9UFc6CKWOJKyrM&vet=12ahUKEwilvb3RpuCHAxUX2wIHHfbeHRAQM3oECHUQAA..i&w=2560&h=759&hcb=2&ved=2ahUKEwilvb3RpuCHAxUX2wIHHfbeHRAQM3oECHUQAA)" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />&nbsp;&nbsp;
 
 <hr>
 </p>
 
 
-![Profile views](https://gpvc.arturio.dev/itsherifAhmed)  
-
-# Github Stats
-
-<img alt="sherif's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsherifahmed&show_icons=true&hide_border=true&theme=vue-dark" />
-
-<img alt="sherif's Langs Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsherifahmed&hide_border=true&theme=vue-dark" />
-
-
-
-
-![snake gif](https://github.com/itsherifahmed/itsherifahmed/blob/output/github-contribution-grid-snake.gif)
 
 ## *Connect with me*
 
-* [![Linkedin: sec it developer](https://img.shields.io/badge/-secitDeveloper-blue?style=social&logo=Linkedin&link=https://www.linkedin.com/in/sec-it-developer-653a73238)](https://www.linkedin.com/in/sec-it-developer-653a73238)
-* [![youtube: sec it developers](https://img.shields.io/badge/-secItDevelopers-blue?style=social&logo=Youtube&link=https://youtube.com/c/SecitDevelopers)](https://youtube.com/c/SecitDevelopers)
-* [![Facebook: sherif](https://img.shields.io/badge/-sherif-blue?style=social&logo=Facebook&link=https://www.facebook.com/devsherif/)](https://www.facebook.com/devsherif)
-* [![Telegram: Sec it developer](https://img.shields.io/badge/-secItDeveloper-blue?style=social&logo=Telegram&link=https://t.me/Sec_it_developers)](https://t.me/Sec_it_developers)
+* [![youtube: Linux XB](https://img.shields.io/badge/-LinuxXB-blue?style=social&logo=Youtube&link=https://youtube.com/@LinuxXB)]([[https://youtube.com/@LinuxXB](https://youtube.com/@LinuxXB)](https://youtube.com/@LinuxXB))
+
+* [![Telegram: Linux XB](https://img.shields.io/badge/-LinuxXB-blue?style=social&logo=Telegram&link=https://t.me/Linuxxb)]([https://t.me/Linuxxb](https://t.me/Linuxxb))
 <br>
 <hr>
 
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+
