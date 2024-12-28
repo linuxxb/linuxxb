@@ -41,9 +41,9 @@ science : Clean Code , Clean Arch , api,
 
 ## *Connect with me*
 
-* [![youtube: Linux XB](https://img.shields.io/badge/-LinuxXB-blue?style=social&logo=Youtube&link=https://youtube.com/@LinuxXB)]([[https://youtube.com/@LinuxXB](https://youtube.com/@LinuxXB)](https://youtube.com/@LinuxXB))
+* [![youtube: Waleed XB](https://img.shields.io/badge/-Waleed_XB-blue?style=social&logo=Youtube&link=https://youtube.com/@W_XB)]([[https://youtube.com/@W_XB](https://youtube.com/@W_XB)](https://youtube.com/@W_XB))
 
-* [![Telegram: Linux XB](https://img.shields.io/badge/-LinuxXB-blue?style=social&logo=Telegram&link=https://t.me/Linuxxb)]([https://t.me/Linuxxb](https://t.me/Linuxxb))
+* [![Telegram: Waleed XB](https://img.shields.io/badge/-LinuxXB-blue?style=social&logo=Telegram&link=https://t.me/Linuxxb)]([https://t.me/Linuxxb](https://t.me/Linuxxb))
 <br>
 <hr>
 
