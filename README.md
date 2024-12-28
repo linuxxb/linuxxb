@@ -4,7 +4,7 @@
 ![Dart](https://img.shields.io/badge/Dart-Language-blue?logo=dart)
 
 
-### Hi there 👋, my name is Waleed 
+### Hi there 👋, my name is Waleed Ghubara
 #### Moblie developer (Flutter - Cross Platform + Python Cross Platform) (Android - ios- web - windows - macos )
 ![Moblie developer (Flutter - Cross Platform + Python Cross Platform) (Android - ios- web - windows - macos)](software-developer-6521720-scaled.jpg)
 
